@@ -1,0 +1,6 @@
+framework module SwiftUi_Destop_Test_Project {
+    umbrella header "SwiftUi_Destop_Test_Project.h"
+
+    export *
+    module * { export * }
+}

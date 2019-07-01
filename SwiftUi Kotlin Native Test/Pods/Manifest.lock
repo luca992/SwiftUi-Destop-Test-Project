@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUi_Destop_Test_Project (1.0)
+
+DEPENDENCIES:
+  - SwiftUi_Destop_Test_Project (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUi_Destop_Test_Project:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUi_Destop_Test_Project: ced9895a361f1a47e8a42fe7a12d33701649c53f
+
+PODFILE CHECKSUM: 6547fbd9784305aaff97f8ad5104a99482f296c8
+
+COCOAPODS: 1.7.3

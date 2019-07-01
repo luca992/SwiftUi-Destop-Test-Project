@@ -1,0 +1,6 @@
+framework module Pods_SwiftUi_Kotlin_Native_Test {
+  umbrella header "Pods-SwiftUi Kotlin Native Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
